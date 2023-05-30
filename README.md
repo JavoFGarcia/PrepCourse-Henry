@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Repositorio del módulo 2 del PrepCourse.
+Prueba de Clonación de un repo de github a mi pc:
+-Creacion del repo en github
+-Clonacion desde gitBash en el Desktop(comando git clone...)
